@@ -17,8 +17,3 @@ h1,h2,h3 {
 #p1 {
   color: darkgreen;
 }
-
-/* Make your rectangle any color you want except for black or white. */
-.rectangle {
-  background-color: rgb(0, 0, 255);
-}
