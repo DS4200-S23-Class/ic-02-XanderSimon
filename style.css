@@ -1,0 +1,24 @@
+/* Set the font of your webpage to Arial.*/
+body {
+  font-family: Arial;
+}
+
+/* Center "Intro to HTML and CSS" and your name. */
+h1,h2,h3 {
+  text-align: center;
+}
+
+/* Give any objects with the class "container" a black border. */
+.container {
+  border: 1px solid black;
+}
+
+/* Give the element with id "p1" dark green font. */
+#p1 {
+  color: darkgreen;
+}
+
+/* Make your rectangle any color you want except for black or white. */
+.rectangle {
+  background-color: rgb(0, 0, 255);
+}
